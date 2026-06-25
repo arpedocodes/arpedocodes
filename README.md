@@ -19,7 +19,5 @@ I'm Anshuman, a student developer who enjoys building software that solves real 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arpedocodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=arpedocodes&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!---
+[![](https://komarev.com/ghpvc/?username=arpedocodes&icon=0&color=1)](https://visitcount.itsvg.in)-->
